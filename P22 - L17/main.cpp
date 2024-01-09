@@ -13,5 +13,6 @@ int main()
 	{
 		arr[i].show();
 		cout << endl;
+
 	}
 }
